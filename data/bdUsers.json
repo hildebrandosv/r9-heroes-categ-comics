@@ -1,0 +1,22 @@
+{
+  "usuarios": [
+    {
+      "nombre": "Juan2",
+      "apellido": "Méndez2",
+      "correo": "repoyito@gmail.com",
+      "id": 2
+    },
+    {
+      "nombre": "Edagar",
+      "apellido": " Sierra V.",
+      "correo": "edgar@hs.com",
+      "id": 4
+    },
+    {
+      "id": 5,
+      "nombre": "Oscar D.",
+      "apellido": " Rodríguez",
+      "correo": "oscar@hs.com"
+    }
+  ]
+}
