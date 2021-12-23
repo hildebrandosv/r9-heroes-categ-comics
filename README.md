@@ -30,7 +30,9 @@ Si aún asi la actualización no funciona, entonces hay que istalarlo de nuevo c
 ![image](https://user-images.githubusercontent.com/73366557/147269655-b552e2bf-66eb-482a-83e2-df480f5e57fc.png)
 
 ### - Resultado:
-Ejercicio sobre categorías de comics según los héroes de la clase del 21/dic/2021
+![image](https://user-images.githubusercontent.com/73366557/147272789-7fdc5fe7-c6e5-4ec3-9506-cc085f238a1f.png)
+![image](https://user-images.githubusercontent.com/73366557/147272578-94ad3427-3383-40cc-8930-ac9cf2ba6375.png)
+
 ___
 ### Hildebrando Sierra V.
 
